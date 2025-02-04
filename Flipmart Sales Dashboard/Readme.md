@@ -1,6 +1,6 @@
 # 📊 Flipmart Sales Dashboard Analysis
 
-[![Flipmart Sales Dashboard](https://github.com/niveshnaman15/Power-BI-Projects/blob/af96e175290a659b7ff8f129156e83aef378ffc8/Flipmart%20.jpg)
+[![Flipmart Sales Dashboard](https://github.com/niveshnaman15/Power-BI-Projects/blob/main/Flipmart%20Sales%20Dashboard/Flipmart%20.jpg)
 
 ## Table of Contents
 
