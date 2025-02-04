@@ -1,7 +1,6 @@
 # 📊 Personal Finance Management Dashboard
 
-[![Personal Finance Management](https://github.com/niveshnaman15/Power-BI-Projects/blob/af96e175290a659b7ff8f129156e83aef378ffc8/Personal%20Finance.jpg)
-
+[![Personal Finance Management](https://github.com/niveshnaman15/Power-BI-Projects/blob/main/Personal%20Finance/Personal%20Finance.jpg)
 ## Table of Contents
 
 - [Overview](#overview)
