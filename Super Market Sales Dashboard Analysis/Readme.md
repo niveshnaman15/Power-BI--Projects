@@ -1,6 +1,6 @@
 # 📊 Super Market Sales Dashboard Analysis
 
-[![Super Market Sales](https://github.com/niveshnaman15/Power-BI-Projects/blob/af96e175290a659b7ff8f129156e83aef378ffc8/Super%20Market%20Sales.jpg)
+[![Super Market Sales](https://github.com/niveshnaman15/Power-BI-Projects/blob/main/Super%20Market%20Sales%20Dashboard%20Analysis/Super%20Market%20Sales.jpg)
 
 ## Table of Contents
 
