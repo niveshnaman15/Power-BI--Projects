@@ -1,6 +1,8 @@
 # 📊 Olist Store Analysis Dashboard
 
 [![Olist Store Analysis Dashboard](https://github.com/niveshnaman15/Power-BI-Projects/blob/main/Olist_Store_Analysis/OList_Store_Analysis.jpg)
+[![Olist Store Analysis Dashboard]
+
 
 ## 📌 Overview
 
